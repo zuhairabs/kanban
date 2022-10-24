@@ -1,9 +1,5 @@
 !["Full Stack Kanban App | React Node MongoDB Material-UI"](https://user-images.githubusercontent.com/67447840/177310317-3d9ad738-af83-4cc1-976a-c4a54c1033ff.png "Full Stack Kanban App | React Node MongoDB Material-UI")
 
-# Video tutorial
-
-    https://youtu.be/sqGowdB1tvY
-
 # Reference
 
     - Create react app:https://create-react-app.dev/
